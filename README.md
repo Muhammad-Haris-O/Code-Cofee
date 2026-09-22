@@ -69,8 +69,8 @@ code-coffee/
 
 ## Developer Information
 
-**Designed & Developed by:** Haris
-**Email:** harismhdharis69@gmail.com
+**Designed & Developed by:** Muhammad Haris O
+**Email:** harismhdharis313@gmail.com
 **Location:** India
 
 Feel free to reach out for collaborations or project inquiries!
